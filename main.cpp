@@ -7,3 +7,8 @@ int main()
     cout<<"I am a Little Nerd\n";
     return 0;
 }
+
+void nerd()
+{
+    cout<<"I am a Nerd\n";
+}
