@@ -5,7 +5,8 @@ int main()
 {
     cout<<"I am a Big Nerd\n";
     cout<<"I am a Little Nerd\n";
-    cout<<nope()<<endl;
+    cout<<nope<<endl;
+    cout<<nerd<<endl;
     return 0;
 }
 
